@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341671006911",
+    "project_id": "pr-20k-9ccab",
+    "storage_bucket": "pr-20k-9ccab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341671006911:android:9f6c4e96f9df059a972c0a",
+        "android_client_info": {
+          "package_name": "com.example.pr_20k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJ84ngZDOgOBppcc6hEpewCVYTZhDwzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
